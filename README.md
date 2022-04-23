@@ -1,9 +1,19 @@
-### Hi there 👋
+### Hi there! Welcome to my Readme 
+![avatargh](https://user-images.githubusercontent.com/22075644/164934323-b5713e19-31b2-431f-819d-9271d5d8b976.png)
+
+![LBSshugyoav2](https://user-images.githubusercontent.com/22075644/164934218-25b846e8-bf56-4a0e-bd88-ab444310d7a8.png)
+
+
+
+I am Gary Axen, learning web development at MolenGeek, Belgium.
+computer science passionate as wel as about web and code i am always working on projects.
+I'm currently working on my first project: A shell script to fill-in index files called Autofill. 
 
 <!--
 **LeBigSky/LebigSky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+as to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
