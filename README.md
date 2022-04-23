@@ -1,5 +1,5 @@
 ### Hi there! Welcome to my Readme 
-![avatargh](https://user-images.githubusercontent.com/22075644/164934323-b5713e19-31b2-431f-819d-9271d5d8b976.png)
+![avatargh](https://user-images.githubusercontent.com/22075644/164934471-9e8af8ff-56fa-42c4-8061-5c7410433886.png)
 
 ![LBSshugyoav2](https://user-images.githubusercontent.com/22075644/164934218-25b846e8-bf56-4a0e-bd88-ab444310d7a8.png)
 
