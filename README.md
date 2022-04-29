@@ -11,10 +11,9 @@ I'm currently working on my first project: A shell script to fill-in index files
 <!--START_SECTION:waka-->
 
 ```text
-Bash       1 hr 36 mins    ████████████████████▒░░░░   80.99 %
-Markdown   19 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.60 %
-HTML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Bash       37 mins         ███████████████████████░░   92.44 %
+HTML       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
 <!--END_SECTION:waka-->
