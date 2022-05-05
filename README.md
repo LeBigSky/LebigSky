@@ -11,7 +11,7 @@ I'm currently working on my first project: A shell script to fill-in index files
 <!--START_SECTION:waka-->
 
 ```text
-Other      0 secs          ████████████▓░░░░░░░░░░░░   50.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
