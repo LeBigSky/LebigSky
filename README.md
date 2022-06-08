@@ -7,7 +7,7 @@
 
 I am Gary Axen, actually (2022) learning web development at MolenGeek, Belgium.
 Computer science passionate as wel as about web and code i am always working on projects.
-I'm currently working on my first project: A shell script to fill-in index files called Autofill. 
+I'm currently working on my first project: A shell script to fill-in index files called: "Autofill". 
 <!--START_SECTION:waka-->
 
 ```text
