@@ -11,8 +11,8 @@ I'm currently working on my first project: A shell script to fill-in index files
 <!--START_SECTION:waka-->
 
 ```text
-HTML   4 hrs 52 mins   ████████████████████▒░░░░   81.72 %
-CSS    1 hr 5 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.28 %
+HTML   6 hrs 52 mins   ███████████████████▒░░░░░   77.43 %
+CSS    2 hrs           █████▓░░░░░░░░░░░░░░░░░░░   22.57 %
 ```
 
 <!--END_SECTION:waka-->
