@@ -11,12 +11,12 @@ I'm currently working on my first project: A shell script to fill-in index files
 <!--START_SECTION:waka-->
 
 ```text
-CSS          15 hrs 45 mins  ███████████▓░░░░░░░░░░░░░   47.05 %
-Sass         8 hrs 6 mins    ██████░░░░░░░░░░░░░░░░░░░   24.18 %
-HTML         6 hrs 17 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.77 %
-JavaScript   2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
-JSON         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-Markdown     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+CSS          12 hrs 22 mins  ██████████░░░░░░░░░░░░░░░   40.26 %
+Sass         10 hrs 42 mins  ████████▓░░░░░░░░░░░░░░░░   34.86 %
+HTML         5 hrs 24 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.61 %
+JavaScript   1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+JSON         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Markdown     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
