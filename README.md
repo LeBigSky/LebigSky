@@ -11,9 +11,9 @@ I'm currently working on my first project: A shell script to fill-in index files
 <!--START_SECTION:waka-->
 
 ```text
-PHP              14 hrs 29 mins  ██████████████▒░░░░░░░░░░   56.75 %
-Blade Template   10 hrs 47 mins  ██████████▓░░░░░░░░░░░░░░   42.22 %
-CSS              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+PHP              14 hrs 29 mins  ██████████████░░░░░░░░░░░   56.00 %
+Blade Template   11 hrs 7 mins   ██████████▓░░░░░░░░░░░░░░   42.98 %
+CSS              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 JavaScript       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 Bash             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
