@@ -11,12 +11,12 @@ I'm currently working on my first project: A shell script to fill-in index files
 <!--START_SECTION:waka-->
 
 ```text
-PHP              22 hrs 33 mins  ████████████▓░░░░░░░░░░░░   51.21 %
-Blade Template   21 hrs 8 mins   ████████████░░░░░░░░░░░░░   48.00 %
-HTML             14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-CSS              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-Git Config       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+PHP              24 hrs 3 mins   █████████████░░░░░░░░░░░░   51.90 %
+Blade Template   21 hrs 48 mins  ███████████▓░░░░░░░░░░░░░   47.05 %
+HTML             14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Bash             7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+CSS              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Git Config       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
