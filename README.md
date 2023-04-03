@@ -11,11 +11,11 @@ I'm currently working on my first project: A shell script to fill-in index files
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   5 hrs 26 mins   ███████████████████████░░   91.62 %
-CSS          16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+JavaScript   4 hrs 39 mins   ███████████████████████░░   92.48 %
+JSON         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+CSS          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
