@@ -11,7 +11,10 @@ I'm currently working on my first project: A shell script to fill-in index files
 <!--START_SECTION:waka-->
 
 ```text
-Python   1 hr 49 mins    █████████████████████████   100.00 %
+Python   3 hrs 10 mins   ███████████████████░░░░░░   75.94 %
+HTML     1 hr            ██████░░░░░░░░░░░░░░░░░░░   23.99 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
