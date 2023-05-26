@@ -6,7 +6,7 @@ I'm currently working on my first project: A shell script to fill-in index files
 
 
 ![LBSshugyoav2](https://user-images.githubusercontent.com/22075644/164934218-25b846e8-bf56-4a0e-bd88-ab444310d7a8.png)
-```text utf8
+
 LEBIGSKY⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣷⣄⠀⠀⢻⣿⣷⣦⡀⠀⢹⣿⣿⣿⣿LEBIGSKY
 LEBIGSKY⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣷⡄⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠛⠛⠉⠉⠉⠉⠛⠛⠋⠉⠉⠉⠁⢴⡎⢿⣿⣿⣿⣿⣿⣷⣄⠈⢿⣿⣿⣿⣦⣄⢻⣿⣿⣿LEBIGSKY
 LEBIGSKY⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡤⠄⢐⠒⣒⣶⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⣿⣷⣜⣿⣿⣿⣿⣿⣿⣿⣿⣿LEBIGSKY
@@ -26,7 +26,7 @@ LEBIGSKY⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 LEBIGSKY⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠈⣿⣿⣿⣷⠀⣿⣿⣿⣿⣿⣿LEBIGSKY
 LEBIGSKY⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⢿⣿⣿⣿⡀⢿⣿⣿⣿⣿⣿LEBIGSKY
 LEBIGSKY⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⣸⣿⣿⣿⣇⣼⣿⣿⣿⣿⣿LEBIGSKY
-```
+
 <!--START_SECTION:waka-->
 
 ```text
