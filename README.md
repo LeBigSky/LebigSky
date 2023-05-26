@@ -19,19 +19,19 @@
   LEBIGSKY⠟⠛⢋⣽⣿⣿⣿⣿⣿⣿⣿⡄⢹⢻⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⢀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⡿⠟⣴⣿⣿⠀⢸⣿⣿⣿⣿⣿⣿⣿LEBIGSKY
   LEBIGSKY⣦⣶⣿⣿⣿⣿⣿⡟⣿⣿⣿⣿⣾⣈⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣰⣥⣶⣾⣿⣿⣿⣿⣿⣿⣷⣦⣤⣀⣀⠀⠀⣿⠀⠀⠀⠀⠀⠀⢰⣃⣠⣿⣿⣿⡆⠀⣿⣿⣿⣿⣿⣯⡉LEBIGSKY
   LEBIGSKY⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦⣤⣤⣤⣴⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣶⣶⣶⣶⣿⣿⣿⣿⣿⣿⣿⠀⢻⣿⣿⣿⣿⣿⣷LEBIGSKY
-  LEBIGSKY⣿⣿ I am Gary Axen, actually (2022) learning web development at MolenGeek, Belgium.⣿⣿⣿⣷LEBIGSKY
-  LEBIGSKY⣿⣿ I am Computer science passionate as wel as web and code i.⣿⣿⣿⣿⣿⣿⠃⢸⣿⣿⣿⡇⠀⣿⣿⣿⣿⣿⣿LEBIGSKY
-  LEBIGSKY⠟⠛⢋⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄always working on projects.⣿⣿⣿⣿⣿⣿⣿⣿⠃⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿LEBIGSKY
-  LEBIGSKY⠟⠛⢋⣽⣿⣿⣿⣿⣾⣿ currently learning Danjgo & Python.⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿LEBIGSKY
+  LEBIGSKY⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷LEBIGSKY
+  LEBIGSKY⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⢸⣿⣿⣿⡇⠀⣿⣿⣿⣿⣿⣿LEBIGSKY
+  LEBIGSKY⠟⠛⢋⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿LEBIGSKY
+  LEBIGSKY⠟⠛⢋⣽⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿LEBIGSKY
   LEBIGSKY⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⢸⣿⣿⣿⡇⠀⣿⣿⣿⣿⣿⣿LEBIGSKY
   LEBIGSKY⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠈⣿⣿⣿⣷⠀⣿⣿⣿⣿⣿⣿LEBIGSKY
   LEBIGSKY⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⣸⣿⣿⣿⣇⣼⣿⣿⣿⣿⣿LEBIGSKY
-  LEBIGSKY⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠈⣿⣿⣿⣷⠀⣿⣿⣿⣿⣿⣿LEBIGSKY
+
   ```text
-            I am Gary Axen, actually (2022) learning web development at MolenGeek, Belgium.
-                 I am Computer science passionate as wel as web and code i.
-                                always working on projects.
-                            currently learning Danjgo & Python.
+               I am Gary Axen, actually (2022) learning web development at MolenGeek, Belgium.
+                          I am Computer science passionate as wel as web and code i.
+                                        always working on projects.
+                                   currently learning Danjgo & Python.
   ```
   <!--START_SECTION:waka-->⠀⠀
               ⠀⣤⣤⣤⣤⣤⣤⣤⡤⢤⣤⡤⠤⣤⣤⠤⣤⣤⡤⠤⣤⡤⢤⣤⣤⠤⣤⣤⠤⢤⣤⡤⣤⣤⡤⢤⣤⡤⠤⣤⡤⢤⣤⣤⠤⢤⣤⡤⠤⣤⡄
