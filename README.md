@@ -22,14 +22,16 @@
   LEBIGSKY⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⣸⣿⣿⣿⣇⣼⣿⣿⣿⣿⣿LEBIGSKY
 
 ⠀⠀⠀
+  <!--START_SECTION:me-->
+  ![avatargh](https://user-images.githubusercontent.com/22075644/164934471-9e8af8ff-56fa-42c4-8061-5c7410433886.png)
   ```text
                I am Gary Axen, actually (2022) learning web development at MolenGeek, Belgium.
                           I am Computer science passionate as wel as web and code i.
                                         always working on projects.
                                    currently learning Danjgo & Python.
   ```
-  
-  ![avatargh](https://user-images.githubusercontent.com/22075644/164934471-9e8af8ff-56fa-42c4-8061-5c7410433886.png)
+   <!--END_SECTION:me-->
+
   <!--START_SECTION:waka-->⠀⠀
               ⠀⣤⣤⣤⣤⣤⣤⣤⡤⢤⣤⡤⠤⣤⣤⠤⣤⣤⡤⠤⣤⡤⢤⣤⣤⠤⣤⣤⠤⢤⣤⡤⣤⣤⡤⢤⣤⡤⠤⣤⡤⢤⣤⣤⠤⢤⣤⡤⠤⣤⡄
              ⣿⣏⣀⣀⣽⠛⠓⠒⠚⠛⠛⠒⠛⠛⠒⠛⠓⠒⠒⠛⠛⠚⠛⠒⠒⠛⠛⠓⠚⠛⠒⠒⠛⠛⠓⠚⠛⠒⠛⠓⠒⠚⠛⠓⠒⠛⠓⠚⠛⠓⠒⠚ ⠛⠓⣞⡿⡇
