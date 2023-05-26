@@ -24,8 +24,18 @@ I'm currently working on my first project: A shell script to fill-in index files
   LEBIGSKY⣿⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⢿⣿⣿⣿⡄⢸⣿⣿⣿⣿⣿⣿LEBIGSKY
   LEBIGSKY⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⢸⣿⣿⣿⡇⠀⣿⣿⣿⣿⣿⣿LEBIGSKY
   LEBIGSKY⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠈⣿⣿⣿⣷⠀⣿⣿⣿⣿⣿⣿LEBIGSKY
+<!--START_SECTION:waka-->
+  LEBIGSKY⣿⣿     Python       9 hrs 56 mins   ██████████████▒░░░░░░░░░░   57.46 % ⣸⣿⣿⣿⣇⣼⣿⣿⣿⣿⣿LEBIGSKY
+  LEBIGSKY⣿⣿     HTML         7 hrs 12 mins   ██████████▒░░░░░░░░░░░░░░   41.64 % ⣿⣿⣿⣷⠀⣿⣿⣿⣿⣿⣿LEBIGSKY
+  LEBIGSKY⣿⣿     Markdown     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+  LEBIGSKY⣿⣿     Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+   LEBIGSKY⣿⣿    JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 
+<!--END_SECTION:waka-->⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⢿⣿⣿⣿⡀⢿⣿⣿⣿⣿⣿LEBIGSKY
+  LEBIGSKY⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⣸⣿⣿⣿⣇⣼⣿⣿⣿⣿⣿LEBIGSKY
+  LEBIGSKY⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠈⣿⣿⣿⣷⠀⣿⣿⣿⣿⣿⣿LEBIGSKY
   LEBIGSKY⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⢿⣿⣿⣿⡀⢿⣿⣿⣿⣿⣿LEBIGSKY
   LEBIGSKY⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⣸⣿⣿⣿⣇⣼⣿⣿⣿⣿⣿LEBIGSKY
+  
 
 <!--START_SECTION:waka-->
 
