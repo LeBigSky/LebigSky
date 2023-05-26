@@ -2,6 +2,7 @@
 ![avatargh](https://user-images.githubusercontent.com/22075644/164934471-9e8af8ff-56fa-42c4-8061-5c7410433886.png)
 
 ![LBSshugyoav2](https://user-images.githubusercontent.com/22075644/164934218-25b846e8-bf56-4a0e-bd88-ab444310d7a8.png)
+```text
 
 　　　　　　　　　　　 '､　　　　　　　　　　　 /　l／　　'′
 　　：　 H　　　　　　 ',　　　　　　　　　lヽ/
@@ -24,6 +25,7 @@
 　　　　　　　　　　　 /　　　　　　l　l l　　i:..:￣￣',::::::::::::::::::::::::::::::::::::::::::::l　　l l
 　　　　　　　　　　／　　　　　　 l　l l　　l:..:..:..:..:　i:::::::::::::::::::::::::::::::::::::::::::l　　l .!
 　　　　　　　　 ／　 　 　 　 　　 l　 l l　　l:..:..:..:... /:::::::::::::::::::::::::::::::::::::::::::l　　l j
+```
 
 I am Gary Axen, actually (2022) learning web development at MolenGeek, Belgium.
 Computer science passionate as wel as about web and code i am always working on projects.
