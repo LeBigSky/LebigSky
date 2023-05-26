@@ -1,8 +1,6 @@
 ### Hi there! Welcome to my Readme 
 ![avatargh](https://user-images.githubusercontent.com/22075644/164934471-9e8af8ff-56fa-42c4-8061-5c7410433886.png)
-I am Gary Axen, actually (2022) learning web development at MolenGeek, Belgium.
-Computer science passionate as wel as about web and code i am always working on projects.
-I'm currently working on my first project: A shell script to fill-in index files called: "Autofill". 
+
 
 
 ![LBSshugyoav2](https://user-images.githubusercontent.com/22075644/164934218-25b846e8-bf56-4a0e-bd88-ab444310d7a8.png)
@@ -21,13 +19,15 @@ I'm currently working on my first project: A shell script to fill-in index files
   LEBIGSKY⠟⠛⢋⣽⣿⣿⣿⣿⣿⣿⣿⡄⢹⢻⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⢀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⡿⠟⣴⣿⣿⠀⢸⣿⣿⣿⣿⣿⣿⣿LEBIGSKY
   LEBIGSKY⣦⣶⣿⣿⣿⣿⣿⡟⣿⣿⣿⣿⣾⣈⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣰⣥⣶⣾⣿⣿⣿⣿⣿⣿⣷⣦⣤⣀⣀⠀⠀⣿⠀⠀⠀⠀⠀⠀⢰⣃⣠⣿⣿⣿⡆⠀⣿⣿⣿⣿⣿⣯⡉LEBIGSKY
   LEBIGSKY⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦⣤⣤⣤⣴⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣶⣶⣶⣶⣿⣿⣿⣿⣿⣿⣿⠀⢻⣿⣿⣿⣿⣿⣷LEBIGSKY
-  LEBIGSKY⣿⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⢿⣿⣿⣿⡄⢸⣿⣿⣿⣿⣿⣿LEBIGSKY
+  LEBIGSKY⣿⣿ I am Gary Axen, actually (2022) learning web development at MolenGeek, Belgium.⣿⣿⣿⣷LEBIGSKY
+  LEBIGSKY⣿⣿ I am Computer science passionate as wel as web and code i.⣿⣿⣿⣿⣿⣿⠃⢸⣿⣿⣿⡇⠀⣿⣿⣿⣿⣿⣿LEBIGSKY
+  LEBIGSKY⠟⠛⢋⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄always working on projects.⣿⣿⣿⣿⣿⣿⣿⣿⠃⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿LEBIGSKY
+  LEBIGSKY⠟⠛⢋⣽⣿⣿⣿⣿⣾⣿ currently learning Danjgo & Python.⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿LEBIGSKY
   LEBIGSKY⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⢸⣿⣿⣿⡇⠀⣿⣿⣿⣿⣿⣿LEBIGSKY
   LEBIGSKY⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠈⣿⣿⣿⣷⠀⣿⣿⣿⣿⣿⣿LEBIGSKY
   LEBIGSKY⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⣸⣿⣿⣿⣇⣼⣿⣿⣿⣿⣿LEBIGSKY
   LEBIGSKY⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠈⣿⣿⣿⣷⠀⣿⣿⣿⣿⣿⣿LEBIGSKY
-  LEBIGSKY⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⢿⣿⣿⣿⡀⢿⣿⣿⣿⣿⣿LEBIGSKY
-  LEBIGSKY⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⣸⣿⣿⣿⣇⣼⣿⣿⣿⣿⣿LEBIGSKY
+  
   <!--START_SECTION:waka-->⠀⠀
               ⠀⣤⣤⣤⣤⣤⣤⣤⡤⢤⣤⡤⠤⣤⣤⠤⣤⣤⡤⠤⣤⡤⢤⣤⣤⠤⣤⣤⠤⢤⣤⡤⣤⣤⡤⢤⣤⡤⠤⣤⡤⢤⣤⣤⠤⢤⣤⡤⠤⣤⡄
              ⣿⣏⣀⣀⣽⠛⠓⠒⠚⠛⠛⠒⠛⠛⠒⠛⠓⠒⠒⠛⠛⠚⠛⠒⠒⠛⠛⠓⠚⠛⠒⠒⠛⠛⠓⠚⠛⠒⠛⠓⠒⠚⠛⠓⠒⠛⠓⠚⠛⠓⠒⠚ ⠛⠓⣞⡿⡇
