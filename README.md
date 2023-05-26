@@ -24,7 +24,7 @@
 ⠀⠀⠀
   <!--START_SECTION:me-->
   ![avatargh](https://user-images.githubusercontent.com/22075644/164934471-9e8af8ff-56fa-42c4-8061-5c7410433886.png)
-  ### About me 
+  ### 📫 About me 
   ```text
                          I am Gary Axen, actually (2022) learning web development at MolenGeek, Belgium.
                                     I am Computer science passionate as wel as web and code i.
@@ -32,7 +32,7 @@
                                               currently learning Danjgo & Python.
   ```
    <!--END_SECTION:me-->
-  ### Currently on ... 
+  ### 🔭 Currently on ... 
   
 
   <!--START_SECTION:waka-->⠀⠀
