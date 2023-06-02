@@ -38,7 +38,7 @@
 
   <!--START_SECTION:waka-->
 
-```text
+```txt
 HTML         9 hrs 7 mins    ████████████▓░░░░░░░░░░░░   50.87 %
 Python       8 hrs 29 mins   ████████████░░░░░░░░░░░░░   47.34 %
 Markdown     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
