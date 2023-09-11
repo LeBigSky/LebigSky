@@ -30,7 +30,7 @@
                          I am Gary Axen, actually (2022) learning web development at MolenGeek, Belgium.
                                     I am Computer science passionate as wel as web and code.
                                                   always working on projects.
-                                              currently learning Danjgo & Python.
+                                              currently Web developer and coach at Molengeek
   ```
    <!--END_SECTION:me-->
   ### 🔭 Currently on ... 
