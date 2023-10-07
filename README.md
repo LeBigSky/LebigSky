@@ -27,10 +27,11 @@
   ![avatargh](https://user-images.githubusercontent.com/22075644/164934471-9e8af8ff-56fa-42c4-8061-5c7410433886.png)
   ### 📫 About me 
   ```text
-                         I am Gary Axen, actually (2022) learning web development at MolenGeek, Belgium.
-                                    I am Computer science passionate as wel as web and code.
-                                                  always working on projects.
-                                              currently Web developer and coach at Molengeek
+                         I am Gary Axen, actually (2023) Web developer & coach, teaching web developement @MolenGeek, Belgium
+                                           MolenGeek is also where i've learned web-development.
+                                       I've always been a computer science & "web-techs" passionate.
+                             So today a can express my self, teaching code, coding apps, and learning new skills.
+     I feel my self more as fire, than a glace that we need to fill and it could explain why i am always looking for working on various projects.
   ```
    <!--END_SECTION:me-->
   ### 🔭 Currently on ... 
