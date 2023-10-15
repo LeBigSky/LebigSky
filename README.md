@@ -30,7 +30,7 @@
         I am Gary Axen, actually (2023) Web developer & coach, teaching web developement @MolenGeek, Belgium
                            MolenGeek is also where i've learned web-development.
                        I've always been a computer science & "web-techs" passionate.
-              So today a can express my self, teaching code, coding apps, and learning new skills.
+              So today i can express my self, teaching code, coding apps, and learning new skills.
                           I feel my self more as a spreading fire, than a glass to fill.
            Learning is a hungry that could explain why i am always looking for working on various projects.
   ```
